@@ -395,3 +395,5 @@ elif st.session_state.selected_tool == "Em Breve":
 
 # Adicionar a marca de copyright no final
 st.markdown("<br><hr><p style='text-align: center;'>© 2025 Lucas Matias. Todos os direitos reservados.</p>", unsafe_allow_html=True)
+
+#arrumando tudo
